@@ -1,0 +1,27 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+ul.nav-bar {
+    display: flex;
+    background-color: bisque;
+}
+
+ul.nav-bar li {
+    justify-content: right;
+    background-color: blue;
+    
+}
+
+main {
+    background-color: brown;
+}
+
+main div p {
+    text-align: center;
+}
